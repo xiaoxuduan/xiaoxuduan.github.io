@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaoxuduan.top/"/>
-  <updated>2018-02-26T09:28:43.429Z</updated>
+  <updated>2018-02-26T12:11:23.117Z</updated>
   <id>http://xiaoxuduan.top/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A software to defend your eyes</title>
+    <link href="http://xiaoxuduan.top/posts/88a28832/"/>
+    <id>http://xiaoxuduan.top/posts/88a28832/</id>
+    <published>2018-02-26T12:09:40.000Z</published>
+    <updated>2018-02-26T12:11:23.117Z</updated>
+    
+    <content type="html"><![CDATA[<p>Although the computers have the option to reduce the screen brightness, the minimal brightness is too bright for me. I have looked for a software to adjust the screen brightness for a long time. And now I find it.</p><p><a href="https://justgetflux.com/" target="_blank" rel="noopener">f.lux</a> can change the screen brightness along the time automatically which is extremely useful to prevent the eyes from too much brightness. It enables the screen to display different color adapt to the time. Thanks for the authors’ great job.</p><p>Link: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Although the computers have the option to reduce the screen brightness, the minimal brightness is too bright for me. I have looked for a 
+      
+    
+    </summary>
+    
+      <category term="softwares" scheme="http://xiaoxuduan.top/categories/softwares/"/>
+    
+    
+      <category term="f.lux, screen brightness" scheme="http://xiaoxuduan.top/tags/f-lux-screen-brightness/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The algorithm to create a universe</title>
+    <link href="http://xiaoxuduan.top/posts/30624678/"/>
+    <id>http://xiaoxuduan.top/posts/30624678/</id>
+    <published>2018-02-26T12:08:16.000Z</published>
+    <updated>2018-02-26T12:11:45.697Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Universe newUniverse;</span><br><span class="line">newUniverse = createUniverse();</span><br><span class="line">newUniverse.start();</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class
+      
+    
+    </summary>
+    
+      <category term="algorithms" scheme="http://xiaoxuduan.top/categories/algorithms/"/>
+    
+    
+      <category term="universe" scheme="http://xiaoxuduan.top/tags/universe/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
