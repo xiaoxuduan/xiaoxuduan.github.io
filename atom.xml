@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaoxuduan.top/"/>
-  <updated>2018-02-26T12:32:42.969Z</updated>
+  <updated>2018-02-26T12:33:24.144Z</updated>
   <id>http://xiaoxuduan.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://xiaoxuduan.top/posts/88a28832/"/>
     <id>http://xiaoxuduan.top/posts/88a28832/</id>
     <published>2017-09-27T12:09:40.000Z</published>
-    <updated>2018-02-26T12:32:42.969Z</updated>
+    <updated>2018-02-26T12:33:24.144Z</updated>
     
     <content type="html"><![CDATA[<p>Although the computers have the option to reduce the screen brightness, the minimal brightness is too bright for me. I have looked for a software to adjust the screen brightness for a long time. And now I find it.</p><p><a href="https://justgetflux.com/" target="_blank" rel="noopener">f.lux</a> can change the screen brightness along the time automatically which is extremely useful to prevent the eyes from too much brightness. It enables the screen to display different color adapt to the time. Thanks for the authors’ great job.</p>]]></content>
     
@@ -37,7 +37,7 @@
       <category term="softwares" scheme="http://xiaoxuduan.top/categories/softwares/"/>
     
     
-      <category term="f.lux; screen brightness" scheme="http://xiaoxuduan.top/tags/f-lux-screen-brightness/"/>
+      <category term="f.lux" scheme="http://xiaoxuduan.top/tags/f-lux/"/>
     
   </entry>
   
