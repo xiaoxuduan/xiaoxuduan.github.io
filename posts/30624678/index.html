@@ -89,7 +89,7 @@
 <meta property="og:site_name" content="Xiaoxu Duan">
 <meta property="og:description" content="123Universe newUniverse;newUniverse = createUniverse();newUniverse.start();">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2018-02-26T12:20:14.156Z">
+<meta property="og:updated_time" content="2018-02-26T12:52:05.084Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="The algorithm to create a universe">
 <meta name="twitter:description" content="123Universe newUniverse;newUniverse = createUniverse();newUniverse.start();">
@@ -365,6 +365,18 @@
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/posts/30624678/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/posts/30624678/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
+          
 
           
           
@@ -471,6 +483,18 @@
 
           
 
+  
+    <div class="comments" id="comments">
+      
+        <div onclick="showGitment()" id="gitment-display-button">Show comments from Gitment</div>
+        <div id="gitment-container" style="display:none"></div>
+      
+    </div>
+
+  
+
+
+
         </div>
         
           
@@ -571,20 +595,6 @@
           
 
           
-          
-            <div class="links-of-blogroll motion-element links-of-blogroll-block">
-              <div class="links-of-blogroll-title">
-                <i class="fa  fa-fw fa-link"></i>
-                Links
-              </div>
-              <ul class="links-of-blogroll-list">
-                
-                  <li class="links-of-blogroll-item">
-                    <a href="https://github.com/xiaoxuduan" title="GitHub" target="_blank">GitHub</a>
-                  </li>
-                
-              </ul>
-            </div>
           
 
           
@@ -786,6 +796,34 @@
       </style>
     
 
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: window.location.pathname, 
+            owner: 'xiaoxuduan2',
+            repo: 'gitment',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '1bddfa18b06299b0b202bc60371f348539a7ff16',
+            
+                client_id: 'a5e043fdb861e87caaa7'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      function showGitment(){
+        document.getElementById("gitment-display-button").style.display = "none";
+        document.getElementById("gitment-container").style.display = "block";
+        renderGitment();
+      }
+      
+      </script>
     
 
 
